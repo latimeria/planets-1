@@ -1,0 +1,3 @@
+Mars is a planet that is red. 
+
+This is a fact.
